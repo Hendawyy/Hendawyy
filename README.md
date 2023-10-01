@@ -67,47 +67,50 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/CI/CD-GitHub%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Fullstack-MERN%20Stack-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/AI-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197)
+![DevOps-Jenkins](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
+![DevOps-CI/CD](https://img.shields.io/badge/DevOps-CI/CD-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
+![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![AI-TensorFlow](https://img.shields.io/badge/AI-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
+![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
+![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
+![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
+![C#](https://img.shields.io/badge/C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
+![PHP](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=4AB197)
+![Dart](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=4AB197)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4AB197)
+![HTML](https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
+![CSS](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=4AB197)
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![Web Development](https://img.shields.io/badge/Web%20Development-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 
 <br>
 
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=4AB197)
+![Research](https://img.shields.io/badge/Research-informational?style=flat&color=4AB197)
+![Teamwork](https://img.shields.io/badge/Teamwork-informational?style=flat&color=4AB197)
+![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-informational?style=flat&color=4AB197)
+![Communication Skills](https://img.shields.io/badge/Communication%20Skills-informational?style=flat&color=4AB197)
+![Fast Learner](https://img.shields.io/badge/Fast%20Learner-informational?style=flat&color=4AB197)
+![Multitasking](https://img.shields.io/badge/Multitasking-informational?style=flat&color=4AB197)
+![Software Diagrams](https://img.shields.io/badge/Software%20Diagrams-informational?style=flat&color=4AB197)
+![Version Control](https://img.shields.io/badge/Version%20Control-informational?style=flat&color=4AB197)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-informational?style=flat&color=4AB197)
+![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-informational?style=flat&color=4AB197)
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat&color=4AB197)
+![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&color=4AB197)
+![Prometheus](https://img.shields.io/badge/Prometheus-informational?style=flat&color=4AB197)
+![Docker](https://img.shields.io/badge/Docker-informational?style=flat&color=4AB197)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&color=4AB197)
+![Ansible](https://img.shields.io/badge/Ansible-informational?style=flat&color=4AB197)
+![Cloud](https://img.shields.io/badge/Cloud-informational?style=flat&color=4AB197)
 
 </details>
+
