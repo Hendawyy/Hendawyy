@@ -69,9 +69,10 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 
 ![DevOps-Jenkins](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![DevOps-CI/CD](https://img.shields.io/badge/DevOps-CI/CD-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
+![Linux-RedHat](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=RedHat&logoColor=white&color=4AB197)
+![AWS-Cloud](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=Cloud&logoColor=white&color=4AB197)
 ![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
-![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
-![AI-TensorFlow](https://img.shields.io/badge/AI-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197)
+![Python-AI](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
@@ -90,15 +91,12 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![Web Development](https://img.shields.io/badge/Web%20Development-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![TensorFlow](https://img.shields.io/badge/AI-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=4AB197)
 
 <br>
 
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=4AB197)
 ![Research](https://img.shields.io/badge/Research-informational?style=flat&color=4AB197)
-![Teamwork](https://img.shields.io/badge/Teamwork-informational?style=flat&color=4AB197)
-![Presentation Skills](https://img.shields.io/badge/Presentation%20Skills-informational?style=flat&color=4AB197)
-![Communication Skills](https://img.shields.io/badge/Communication%20Skills-informational?style=flat&color=4AB197)
-![Fast Learner](https://img.shields.io/badge/Fast%20Learner-informational?style=flat&color=4AB197)
 ![Multitasking](https://img.shields.io/badge/Multitasking-informational?style=flat&color=4AB197)
 ![Software Diagrams](https://img.shields.io/badge/Software%20Diagrams-informational?style=flat&color=4AB197)
 ![Version Control](https://img.shields.io/badge/Version%20Control-informational?style=flat&color=4AB197)
