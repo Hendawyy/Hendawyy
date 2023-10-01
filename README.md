@@ -95,8 +95,8 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=4AB197)
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![Web Development](https://img.shields.io/badge/Web%20Development-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![AI](https://img.shields.io/badge/AI-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![AI](https://img.shields.io/badge/Python--informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![TensorFlow](https://img.shields.io/badge/Python--informational?style=flat&logo=react&logoColor=white&color=4AB197)
 
 <br>
 
