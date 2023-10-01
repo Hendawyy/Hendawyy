@@ -69,15 +69,19 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 
 ![DevOps-Jenkins](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![DevOps-CI/CD](https://img.shields.io/badge/DevOps-CI/CD-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
+![DevOps-Ansible](https://img.shields.io/badge/DevOps-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=4AB197)
+![DevOps-Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![DevOps-Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
+![DevOps-Terraform](https://img.shields.io/badge/DevOps-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=4AB197)
 ![Linux-RedHat](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=RedHat&logoColor=white&color=4AB197)
 ![AWS-Cloud](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=Cloud&logoColor=white&color=4AB197)
 ![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
-![Python-AI](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
 <br>
 
+![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![Java](https://img.shields.io/badge/Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
 ![C](https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
 ![C++](https://img.shields.io/badge/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
@@ -102,13 +106,6 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 ![Version Control](https://img.shields.io/badge/Version%20Control-informational?style=flat&color=4AB197)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-informational?style=flat&color=4AB197)
 ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-informational?style=flat&color=4AB197)
-![AWS](https://img.shields.io/badge/AWS-informational?style=flat&color=4AB197)
-![Terraform](https://img.shields.io/badge/Terraform-informational?style=flat&color=4AB197)
 ![Prometheus](https://img.shields.io/badge/Prometheus-informational?style=flat&color=4AB197)
-![Docker](https://img.shields.io/badge/Docker-informational?style=flat&color=4AB197)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=flat&color=4AB197)
-![Ansible](https://img.shields.io/badge/Ansible-informational?style=flat&color=4AB197)
-![Cloud](https://img.shields.io/badge/Cloud-informational?style=flat&color=4AB197)
 
 </details>
-
