@@ -1,13 +1,13 @@
-[GitHub Banner](./assets/GitHubHeader.jpg)
+![GitHub Banner](./assets/GitHubHeader.jpg)
 
-[![Visits Badge](https://badges.pufler.dev/visits/Hendawyy/Hendawyy)]
+![Visits Badge](https://badges.pufler.dev/visits/Hendawyy/Hendawyy)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MeSivom86)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/seif-hendawy-3995561a8/)
 
 
 Hey there 👋
 
-Experienced Full-Stack Developer | DevOps Engineer | AI Enthusiast
+I'm an Experienced Full-Stack Developer | DevOps Engineer | AI Enthusiast
 
 I'm a versatile IT professional with a strong foundation in DevOps, software engineering, and a passion for the limitless possibilities of AI and machine learning. Here's what sets me apart:
 
