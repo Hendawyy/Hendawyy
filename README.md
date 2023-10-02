@@ -6,6 +6,7 @@
 ![Visits Badge](https://badges.pufler.dev/visits/Hendawyy/Hendawyy)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MeSivom86)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/seif-hendawy-3995561a8/)
+![](https://komarev.com/ghpvc/?username=Hendawyy&style=flat-square&color=blueviolet)
 
 
 Hey there 👋
@@ -70,18 +71,18 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 
 ## 💼 Skills
 
-![DevOps-Jenkins](https://img.shields.io/badge/DevOps-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
+![CI/CD-Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![DevOps-CI/CD](https://img.shields.io/badge/DevOps-CI/CD-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![DevOps-Ansible](https://img.shields.io/badge/DevOps-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=4AB197)
-![DevOps-Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![Configuration Management-Ansible](https://img.shields.io/badge/Configuration_Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=4AB197)
+![Containerization-Docker](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![DevOps-Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
-![DevOps-Terraform](https://img.shields.io/badge/DevOps-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=4AB197)
+![IAC-Terraform](https://img.shields.io/badge/IAC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=4AB197)
 ![Linux-RedHat](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=RedHat&logoColor=white&color=4AB197)
-![AWS-Cloud](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=Cloud&logoColor=white&color=4AB197)
+![AWS-Cloud](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=Amazon%20AWS&Cloud&logoColor=white&color=4AB197)
 ![Linux-Ubuntu](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=4AB197)
 
 <details>
-<summary>More Skills</summary>
+<summary>Programing Skills</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=4AB197)
@@ -100,9 +101,11 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 ![Web Development](https://img.shields.io/badge/Web%20Development-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![AI](https://img.shields.io/badge/AI-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=4AB197)
-
+</details>
 <br>
-
+<details>
+<summary>Other Skills</summary>
+<br>
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=4AB197)
 ![Research](https://img.shields.io/badge/Research-informational?style=flat&color=4AB197)
 ![Multitasking](https://img.shields.io/badge/Multitasking-informational?style=flat&color=4AB197)
