@@ -1,4 +1,4 @@
-![GitHub Banner](./assets/GitHubHeader.jpg)
+![GitHub Banner](./assets/GitHubHeader.png)
 
 # Seif Hendawy
 
