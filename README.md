@@ -2,10 +2,9 @@
 
 # Seif Hendawy
 
-
-![Visits Badge](https://badges.pufler.dev/visits/Hendawyy/Hendawyy)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MeSivom86)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/seif-hendawy-3995561a8/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/MeSivom86)
+![Visits Badge](https://badges.pufler.dev/visits/Hendawyy/Hendawyy&style=flat-square&color=blueviolet)
 ![](https://komarev.com/ghpvc/?username=Hendawyy&style=flat-square&color=blueviolet)
 
 
