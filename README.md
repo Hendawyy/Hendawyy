@@ -101,17 +101,20 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 ![AI](https://img.shields.io/badge/AI-informational?style=flat&logo=python&logoColor=white&color=4AB197)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=4AB197)
 </details>
+
 <br>
 <details>
-<summary>Other Skills</summary>
-<br>
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=4AB197)
-![Research](https://img.shields.io/badge/Research-informational?style=flat&color=4AB197)
-![Multitasking](https://img.shields.io/badge/Multitasking-informational?style=flat&color=4AB197)
-![Software Diagrams](https://img.shields.io/badge/Software%20Diagrams-informational?style=flat&color=4AB197)
-![Version Control](https://img.shields.io/badge/Version%20Control-informational?style=flat&color=4AB197)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-informational?style=flat&color=4AB197)
-![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-informational?style=flat&color=4AB197)
-![Prometheus](https://img.shields.io/badge/Prometheus-informational?style=flat&color=4AB197)
+  <summary>Other Skills<br></summary>
+  <br>
+  
+  ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-informational?style=flat&color=4AB197)
+  ![Research](https://img.shields.io/badge/Research-informational?style=flat&color=4AB197)
+  ![Multitasking](https://img.shields.io/badge/Multitasking-informational?style=flat&color=4AB197)
+  ![Software Diagrams](https://img.shields.io/badge/Software%20Diagrams-informational?style=flat&color=4AB197)
+  ![Version Control](https://img.shields.io/badge/Version%20Control-informational?style=flat&color=4AB197)
+  ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-informational?style=flat&color=4AB197)
+  ![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-informational?style=flat&color=4AB197)
+  ![Prometheus](https://img.shields.io/badge/Prometheus-informational?style=flat&color=4AB197)
 
 </details>
+
