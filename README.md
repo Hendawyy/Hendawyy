@@ -74,7 +74,7 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 ![DevOps-CI/CD](https://img.shields.io/badge/DevOps-CI/CD-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
 ![Configuration Management-Ansible](https://img.shields.io/badge/Configuration_Management-Ansible-informational?style=flat&logo=ansible&logoColor=white&color=4AB197)
 ![Containerization-Docker](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![DevOps-Kubernetes](https://img.shields.io/badge/DevOps-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
+![DevOps-Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=4AB197)
 ![IAC-Terraform](https://img.shields.io/badge/IAC-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=4AB197)
 ![Linux-RedHat](https://img.shields.io/badge/Linux-RedHat-informational?style=flat&logo=RedHat&logoColor=white&color=4AB197)
 ![AWS-Cloud](https://img.shields.io/badge/AWS-Cloud-informational?style=flat&logo=Amazon%20AWS&Cloud&logoColor=white&color=4AB197)
