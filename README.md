@@ -29,7 +29,7 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 ## 📌 Pinned Repositories
 
 <br>
-<a href="https://github.com/Hendawyy/https://github.com/Hendawyy/Final-Project-iti/tree/master">
+<a href="https://github.com/Hendawyy/Final-Project-iti/tree/master">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=Final-Project-iti&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
