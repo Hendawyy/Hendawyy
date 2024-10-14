@@ -10,7 +10,7 @@
 
 Hey there 👋
 
-I'm an Experienced Full-Stack Developer | DevOps Engineer | AI Enthusiast
+I'm a Fresh DevOps Engineer | AI Enthusiast
 
 I'm a versatile IT professional with a strong foundation in DevOps, software engineering, and a passion for the limitless possibilities of AI and machine learning. Here's what sets me apart:
 
@@ -34,7 +34,7 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
 </a>
 
 <br>
-<a href="https://github.com/Hendawyy/Final-Project-iti/tree/master">
+<!-- <a href="https://github.com/Hendawyy/Final-Project-iti/tree/master">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=Final-Project-iti&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -53,7 +53,7 @@ I'm a versatile IT professional with a strong foundation in DevOps, software eng
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=BashProject_DBMS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+<br> -->
 
 <a href="https://github.com/Hendawyy/ArithmeticAssociativityOperatorPrecedenceManipulator">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=ArithmeticAssociativityOperatorPrecedenceManipulator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
