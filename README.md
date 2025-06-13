@@ -47,34 +47,34 @@ Welcome to my GitHub profile! I'm passionate about **DevOps, Cloud, and automati
 
 <div align="center">
   <a href="https://github.com/Hendawyy/GitSecOps-3-Tier-Deployment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=GitSecOps-3-Tier-Deployment&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="GitSecOps-3-Tier-Deployment" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=GitSecOps-3-Tier-Deployment&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="GitSecOps-3-Tier-Deployment" />
   </a>
   <a href="https://github.com/Hendawyy/Final-Project-iti">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=Final-Project-iti&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Final-Project-iti" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=Final-Project-iti&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="Final-Project-iti" />
   </a>
   <a href="https://github.com/Hendawyy/secure-jenkins-cicd-private-agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=secure-jenkins-cicd-private-agents&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="secure-jenkins-cicd-private-agents" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=secure-jenkins-cicd-private-agents&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="secure-jenkins-cicd-private-agents" />
   </a>
   <a href="https://github.com/Hendawyy/eks-web-infra-self-managed-ng-aws">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=eks-web-infra-self-managed-ng-aws&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="eks-web-infra-self-managed-ng-aws" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=eks-web-infra-self-managed-ng-aws&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="eks-web-infra-self-managed-ng-aws" />
   </a>
   <a href="https://github.com/Hendawyy/eks-web-infra-managed-ng-aws">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=eks-web-infra-managed-ng-aws&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="eks-web-infra-managed-ng-aws" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=eks-web-infra-managed-ng-aws&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="eks-web-infra-managed-ng-aws" />
   </a>
   <a href="https://github.com/Hendawyy/3-tier-app-aws-Fargate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=3-tier-app-aws-Fargate&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="3-tier-app-aws-Fargate" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=3-tier-app-aws-Fargate&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="3-tier-app-aws-Fargate" />
   </a>
   <a href="https://github.com/Hendawyy/3-tier-app-aws-ASG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=3-tier-app-aws-ASG&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="3-tier-app-aws-ASG" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=3-tier-app-aws-ASG&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="3-tier-app-aws-ASG" />
   </a>
   <a href="https://github.com/Hendawyy/DBMS-Bash-Script">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=DBMS-Bash-Script&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="DBMS-Bash-Script" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=DBMS-Bash-Script&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="DBMS-Bash-Script" />
   </a>
   <a href="https://github.com/Hendawyy/ArithmeticAssociativityOperatorPrecedenceManipulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=ArithmeticAssociativityOperatorPrecedenceManipulator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="ArithmeticAssociativityOperatorPrecedenceManipulator" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=ArithmeticAssociativityOperatorPrecedenceManipulator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="ArithmeticAssociativityOperatorPrecedenceManipulator" />
   </a>
   <a href="https://github.com/Hendawyy/Crowd_Funding.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=Crowd_Funding&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Crowd_Funding" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=Crowd_Funding&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="Crowd_Funding" />
   </a>
 </div>
 
@@ -83,8 +83,8 @@ Welcome to my GitHub profile! I'm passionate about **DevOps, Cloud, and automati
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendawyy&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hendawyy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Seif Hendawy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendawyy&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hendawyy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&cache_seconds=60" alt="Seif Hendawy's GitHub Stats" />
 </div>
 
 ---
