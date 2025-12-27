@@ -73,18 +73,17 @@ Welcome to my GitHub profile! I'm passionate about **DevOps, Cloud, and automati
   <a href="https://github.com/Hendawyy/ArithmeticAssociativityOperatorPrecedenceManipulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=ArithmeticAssociativityOperatorPrecedenceManipulator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="ArithmeticAssociativityOperatorPrecedenceManipulator" />
   </a>
-  <a href="https://github.com/Hendawyy/Crowd_Funding.git">
+  <a href="https://github.com/Hendawyy/Crowd_Funding">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hendawyy&repo=Crowd_Funding&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="Crowd_Funding" />
   </a>
 </div>
-
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendawyy&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&cache_seconds=60" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hendawyy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&cache_seconds=60" alt="Seif Hendawy's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hendawyy&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hendawyy&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
